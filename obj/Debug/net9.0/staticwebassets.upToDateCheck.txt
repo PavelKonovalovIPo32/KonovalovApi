@@ -1,0 +1,2 @@
+wwwroot\index.html
+C:\Users\valtu\Desktop\Новая папка (2)\wwwroot\index.html
